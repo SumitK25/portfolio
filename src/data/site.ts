@@ -24,7 +24,7 @@ export const navLinks = [
 ];
 
 export const statusServices = [
-  { name: "NMSWorks — Network Mgmt API", status: "online" as const, detail: "prod · Java / Spring Boot" },
+  { name: "NMSWorks — DMS & Dashboard", status: "online" as const, detail: "prod · Java / Spring Boot" },
   { name: "Kafka Streaming Pipeline", status: "online" as const, detail: "real-time · Apache Kafka" },
   { name: "PostgreSQL Cluster", status: "online" as const, detail: "tuned · indexing + query opt" },
   { name: "GenAI Agent Lab", status: "building" as const, detail: "active · hackathon builds" },

@@ -22,7 +22,7 @@ export const experience: Experience[] = [
       "Implemented and maintained CI/CD pipelines with Jenkins, with build artifacts managed in JFrog Artifactory.",
       "Deployed and monitored Java-based Apache Kafka clusters for real-time data processing; configured Apache Tomcat for production Java web services.",
     ],
-    stack: ["Java", "Spring Boot", "Apache Kafka", "PostgreSQL", "Jenkins", "Tomcat"],
+    stack: ["Java", "Spring Boot", "Apache Kafka", "MySQL", "Jenkins", "Tomcat"],
   },
   {
     role: "Project Technical Support III Programmer",
@@ -59,7 +59,7 @@ export const education: EducationItem[] = [
   {
     degree: "MCA",
     field: "Computers",
-    school: "Cochin University of Science and Technology (CUST)",
+    school: "Cochin University of Science and Technology (CUSAT)",
     period: "2022",
     detail: "Grade — 9/10",
   },
