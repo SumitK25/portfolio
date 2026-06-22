@@ -10,7 +10,7 @@ export const profile = {
   devto: "https://dev.to/sumitk25",
   resumeHref: "/resume.pdf",
   photoHref: "/photo.jpg",
-  experienceSince: "Apr 2024",
+  experienceSince: "Mar 2023",
   yearsExperience: "3+",
   blurb:
     "I build backend systems and data pipelines for production telecom infrastructure, and spend my off-hours pushing GenAI agents through hackathons and competitions.",
